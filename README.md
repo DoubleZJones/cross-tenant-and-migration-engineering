@@ -54,3 +54,18 @@ Performed validation testing to confirm that cross-tenant synchronization behave
 
 **Impact:**  
 Provided confidence in the stability and predictability of cross-tenant synchronization, reducing administrative risk during shared operations.
+
+---
+
+## 4. Multi-Platform Data Migration
+**Summary:**  
+Led data migrations from on-premises file shares, ShareFile, and Google Drive into Microsoft 365, with Dropbox migration planned as a follow-up phase.
+
+**Key Actions:**  
+- Assessed data volume, structure, and permissions.  
+- Prepared migration tooling and mapping documentation.  
+- Executed staged migrations with minimal disruption.  
+- Validated post-migration access and integrity.
+
+**Impact:**  
+Modernized collaboration infrastructure and consolidated data into a unified cloud platform.
